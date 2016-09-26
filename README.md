@@ -22,11 +22,11 @@
 * 安装wechat_web_devtools_0.7.0_x64，并用它跟手机微信实现登录
 * 覆盖安装wechat_web_devtools_0.9.092100_x64
 * 将weapp-ide-crack-master文件夹中的三个文件，放到安装程序目录对应的地方：
- * 微信web开发者工具\\\\\\\\package.nw\\\\\\\\app\\\\\\\\dist\\\\\\\\components\\\\\\\\create\\\\\\\\createstep.js
+ * 微信web开发者工具\package.nw\app\dist\components\create\createstep.js
 
- * 微信web开发者工具\\\\\\\\package.nw\\\\\\\\app\\\\\\\\dist\\\\\\\\stroes\\\\\\\\projectStores.js
+ * 微信web开发者工具\package.nw\app\dist\stroes\projectStores.js
 
- * 微信web开发者工具\\\\\\\\package.nw\\\\\\\\app\\\\\\\\dist\\\\\\\\weapp\\\\\\\\appservice\\\\\\\\asdebug.js
+ * 微信web开发者工具\package.nw\app\dist\weapp\appservice\asdebug.js
 
 ![](http://upload-images.jianshu.io/upload_images/999401-6f05cb2d496c2376.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
