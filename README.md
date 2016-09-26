@@ -17,6 +17,7 @@
 ![压缩包](http://upload-images.jianshu.io/upload_images/999401-4896d17dd4d28b3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 接下来的步骤是：
+(Update： 已经不用做覆盖安装了，直接进repo链接下载最新的9.0版哈)
 
 * 安装wechat_web_devtools_0.7.0_x64，并用它跟手机微信实现登录
 * 覆盖安装wechat_web_devtools_0.9.092100_x64
